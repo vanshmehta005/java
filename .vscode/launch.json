@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch FloydsTriangle",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.FloydsTriangle",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch InvertedHalfPyramidWithNumbers",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.InvertedHalfPyramidWithNumbers",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch InvertedAndRotatedHalfPyramid",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.InvertedAndRotatedHalfPyramid",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch HollowRectangle",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.HollowRectangle",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
       "name": "Launch SpiralMatrix",
       "request": "launch",
       "mainClass": "AlphaCourse.TwoDArray.SpiralMatrix",
