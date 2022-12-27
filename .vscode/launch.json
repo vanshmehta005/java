@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PalindromicPatternWIthNumbers",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.PalindromicPatternWIthNumbers",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumberPyramid",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.NumberPyramid",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Diamond",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.Diamond",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch HollowRhombusPattern",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.HollowRhombusPattern",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch SolidRhombusPattern",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.SolidRhombusPattern",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch ButterflyPattern",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.ButterflyPattern",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch ZeroOneTrianglePattern",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.ZeroOneTrianglePattern",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
       "name": "Launch FloydsTriangle",
       "request": "launch",
       "mainClass": "JavaConceptBuild.Patterns.FloydsTriangle",
