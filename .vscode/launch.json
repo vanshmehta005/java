@@ -3,6 +3,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch BinomialCoefficient",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.DynamicProgramming.BinomialCoefficient",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseArray",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Arrays.ReverseArray",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch FractionalKnapsack",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.GreedyStrategy.FractionalKnapsack",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch ActivitySelectionUnsorted",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.GreedyStrategy.ActivitySelectionUnsorted",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch ActivitySelection",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.GreedyStrategy.ActivitySelection",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
       "name": "Launch PalindromicPatternWIthNumbers",
       "request": "launch",
       "mainClass": "JavaConceptBuild.Patterns.PalindromicPatternWIthNumbers",
