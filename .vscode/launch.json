@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch chatgpt",
+      "request": "launch",
+      "mainClass": "AlphaCourse.Arrays.chatgpt",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch SubSequence",
+      "request": "launch",
+      "mainClass": "AlphaCourse.Arrays.SubSequence",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimpleCode",
+      "request": "launch",
+      "mainClass": "JavaConceptBuild.Patterns.SimpleCode",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
       "name": "Launch BinomialCoefficient",
       "request": "launch",
       "mainClass": "JavaConceptBuild.DynamicProgramming.BinomialCoefficient",
