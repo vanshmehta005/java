@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Exercise10",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise10",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise09",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise09",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise08",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise08",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise07",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise07",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise06",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise06",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise05",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise05",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise04",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise04",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise03",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise03",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise02",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise02",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch Exercise01",
+      "request": "launch",
+      "mainClass": "Android.CodingExcercise.Exercise01",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
+      "name": "Launch HomeWork",
+      "request": "launch",
+      "mainClass": "AlphaJava.VariablesAndDataTypes.HomeWork",
+      "projectName": "Java_c0b92795"
+    },
+    {
+      "type": "java",
       "name": "Launch chatgpt",
       "request": "launch",
       "mainClass": "AlphaCourse.Arrays.chatgpt",
